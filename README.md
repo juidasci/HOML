@@ -15,9 +15,9 @@
 
 
 ## 參考
-- 除了參考書中的內容外，也參考該書作者的[Github](https://github.com/ageron/handson-ml)。
+- 除了參考書中的內容外，對照參考該書作者的[Github](https://github.com/ageron/handson-ml)。
 
-- 另外也參考另一個簡體版本內容，[机器学习100天](https://github.com/MLEveryday/100-Days-Of-ML-Code)。
+- 另外也參考一個[簡體版本內容](https://github.com/DeqianBai/Hands-on-Machine-Learning)。
 
 
 
