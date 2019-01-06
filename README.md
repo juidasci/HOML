@@ -10,8 +10,8 @@
 - 一方面擷取書中的重點當作筆記，另一方面也實際針對程式碼的部分自行撰寫，並確認執行結果，當做自我練習。
 
 
-這本書的內容相當不錯，值得深入研究
-[Hands-on Machine Learning with Scikit-Learn and TensorFlow](http://shop.oreilly.com/product/0636920052289.do)
+這本書
+[Hands-on Machine Learning with Scikit-Learn and TensorFlow](http://shop.oreilly.com/product/0636920052289.do)的內容相當不錯，值得深入研究
 
 
 ## 參考
